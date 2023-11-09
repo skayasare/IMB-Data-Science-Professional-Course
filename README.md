@@ -9,16 +9,15 @@ Learning models. In the process they completed several labs and
 assignments on the cloud including a Capstone Project at the end to
 apply and demonstrate their knowledge and skills.
 
-10 courses were taken;
-What is Data Science?
-Tools for Data Science
-Data Science Methodology
-Python for Data Science, AI &
-Development
-Python Project for Data Science
-Databases and SQL for Data Science
+ 10 courses were taken;
+1. What is Data Science?
+2. Tools for Data Science
+3. Data Science Methodology
+4. Python for Data Science, AI & Development
+5. Python Project for Data Science
+6.Databases and SQL for Data Science
 with Python
-Data Analysis with Python
-Data Visualization with Python
-Machine Learning with Python
-Applied Data Science Capstone
+7.Data Analysis with Python
+8. Data Visualization with Python
+9. Machine Learning with Python
+10. Applied Data Science Capstone
